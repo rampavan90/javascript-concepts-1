@@ -1,0 +1,6 @@
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+# Dependency directories
+node_modules/
+# output dir
+dist/

@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/callstack.js"],"names":["greeting","sayHi"],"mappings":"AAAA,SAASA,QAAT,GAAmB;AAChBC,EAAAA,KAAK;AACP;;AAED,SAASA,KAAT,GAAiB;AACb,SAAO,KAAP;AACF;;AAEFD,QAAQ","file":"callstack.c545bd29.js","sourceRoot":"..","sourcesContent":["function greeting(){\n   sayHi();\n}\n\nfunction sayHi() {\n    return \"Hi!\";\n }\n \ngreeting();\n\n"]}
